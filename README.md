@@ -17,12 +17,11 @@ I am a Software Engineer passionate about building scalable, full-stack web and 
 - **Frontend & Full-Stack**: Next.js, Django
 - **Mobile**: Flutter
 - **Backend & APIs**: FastAPI, WebSockets
-- **Database & ORM**: Prisma
+- **Database & ORM**: Prisma, SQLAlchemy
 - **Architecture & Workflow**: Turborepo (Monorepos), Microservices
 
 ## 📈 Featured Experience
 - **Software Engineer Intern @ Taquana Limited**: Contributed to the development of transport management software. 
-- **Web3 / Blockchain**: Configured native self-custody Solana wallet integrations for Brave Rewards.
 
 ---
 *Always open to collaborating on innovative SaaS, mobile platforms, or smart agricultural tech!*
