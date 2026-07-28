@@ -1,8 +1,8 @@
 # Hi there, I'm Muli Munyoki 👋
 
-### Full-Stack Web & Mobile Developer
+### Full-Stack Web Developer
 
-I am a Software Engineer passionate about building scalable, full-stack web and mobile applications. My development journey ranges from crafting robust SaaS platforms to exploring the intersection of software and hardware through IoT.
+I am a Software Engineer passionate about building scalable, full-stack web applications. My development journey ranges from crafting robust SaaS platforms to exploring the intersection of software and hardware through IoT.
 
 ## 🚀 About Me
 - 🔭 **Currently working on**: 
